@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.header{
+    text-align: center;
+    background-color: rgb(131, 205, 205);
+    border: 3px solid black;
+    padding: 49px;
+    
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-top: 10px;
+
+
+    
+}
+
+
+
+.SenioMadre{
+    margin: 80px;
+    
+}
+
+
+
+/* grupo1*/
+.madre1{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    border: 39px solid rosybrown;
+    margin-top: -80px;
+}
+
+.imagen1{
+    display: flex;
+    flex-direction: column;
+    padding-right: 90px;
+}
+.gato1{
+    height: 300px;
+    width: 300px;
+}
+
+.imagen2{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.gato2{
+    height: 290px;
+    width: 290px;
+}
+
+.imagen3{
+    display: flex;
+    flex-direction: column;
+    padding-left: 90px;
+}
+.gato3{
+    height: 290px;
+    width: 290px;
+}
+
+/* grupo2*/
+
+.madre2{
+    display: flex;
+    justify-content: center;
+    padding:20px;
+    padding: 30px;
+    border: 39px solid rgba(186, 97, 186, 0.427);
+}
+
+.imagen4{
+    display: flex;
+    
+}
+.gato4{
+    height: 290px;
+    width: 290px;
+    padding-right: 100px;
+}
+
+.imagen5{
+    display: flex;
+    
+}
+.gato5{
+    height: 280px;
+    width: 280px;
+    padding-left: 100px ;
+}
+
+
+
+
+/* grupo3*/
+
+.madre3{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    border: 39px solid rgba(246, 56, 183, 0.845);
+}
+
+.imagen6{
+    display: flex;
+    
+}
+.gato6{
+    height: 290px;
+    width: 290px;
+    padding-right: 98px;
+}
+
+
+.imagen7{
+    display: flex;
+    
+}
+.gato7{
+    height: 290px;
+    width: 290px;
+    padding: 20px;
+}
+
+
+.imagen8{
+    display: flex;
+   
+}
+.gato8{
+    height: 290px;
+    width: 290px;
+    padding-left: 98px;
+}
